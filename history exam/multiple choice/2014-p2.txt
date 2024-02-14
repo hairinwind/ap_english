@@ -1,0 +1,205 @@
+One paper, published in 2004,1 looked at the
+increase in observed cirriform clouds over the US
+between the years 1974 and 1994. [The paper] . . .
+concluded that the increase in air traffic and its
+resulting contrails had led to increasing cirriform
+cloud cover. Estimations of the expected warming
+effects of this increase were equivalent to .36°F per
+decade. Amazingly, the effect of the increase in
+cirriform clouds alone was considered sufficient to
+account for almost the entire rise in temperatures
+across the USA during the last 25 years. This is a
+major claim, for though it relates to localised warming
+effects, not global ones, the report suggests that the
+high clouds that develop from contrails are a huge
+contributor to surface warming.
+Another key paper, published in 2003,2 was equally
+sobering. Here, the scientists correlated the changing
+distribution of cirriform clouds over Europe from
+weather satellite images with precise records of the
+varying concentrations of air traffic during the same
+periods. The report concluded that the warming
+attributable to cirriform clouds appearing to develop
+as a result of air traffic was ten times greater than that
+expected to result from aviation CO2 emissions.
+Now, it is hard to make a meaningful comparison
+between the environmental impacts of such differing
+factors as, on the one hand, aircraft CO2 emissions,
+which remain in the atmosphere for over a hundred
+years and have a cumulative and global effect on
+surface warming and, on the other hand, aviationinduced cloud cover, whose warming effects are both
+localised and temporary. But these studies suggest
+that aviation’s contrails are leading to other high
+clouds that are a more significant factor in global
+warming than its CO2 emissions.
+Air traffic is estimated to be increasing by
+five percent a year,3 with most of the increase being
+in contrail-forming long-haul flights. Ironically,
+modern aircraft engines—designed to burn more
+efficiently and so emit less CO2 —actually create
+more contrails.
+A team of scientists at Imperial College in London
+has been looking at one possible way to reduce
+contrails: stopping aircraft from flying so high.
+Using computer simulations designed for air-traffic
+management, they have considered the implications
+of imposing restrictions on European cruising
+altitudes to keep aircraft below contrail-forming
+levels.4 One problem with such a system is that the
+lower an airplane flies, the denser the air it has to
+travel through and so the more fuel it needs to burn—
+something that has financial implications as well as
+those of increased greenhouse gas emissions.
+So the team evaluated a system that imposed the
+highest possible ‘contrail-free’ ceiling on cruising
+altitudes, which could be calculated dynamically in
+response to changes in atmospheric temperature and
+humidity.
+‘If you had that cap on the flights in Europe—’
+explained Dr. Bob Noland, one of the scientists
+behind the project, ‘which would result in a
+four percent increase in CO2 emissions from
+increased fuel consumption—our conclusion was
+that the reduction in contrails would make it a good
+policy.’ Their findings suggested that, though there
+would certainly be implementation difficulties, such
+as increased congestion and longer flight times, the
+system could reduce contrail formation by between
+65 and 95 percent, compared with just a four percent
+rise in CO2 emissions.
+Without the contrails it seems that there would
+be a considerable reduction in the overall amount
+of thin, ground-warming cirriform clouds. ‘The
+CO2 emissions from aircraft,’ says Noland, ‘while
+significant and growing, are not going to make that
+much difference even if we cut them down, but if we
+reduce contrails by 90 percent tomorrow—which we
+think is entirely feasible—you would get a major
+impact right away. Stopping the contrails would bring
+an immediate benefit.’
+-------------------------------------------------------
+1 Minnis, P.; Ayers, J. K.; Palikonda, R.; Phan, D.:
+‘Contrails, Cirrus Trends, and Climate’. 2004, Journal
+of Climate, 17.
+2 Mannstein, H. & Schumann, U.: ‘Observations of
+Contrails and Cirrus over Europe’. Proceedings of the
+AAC Conference, 30 June–3 July 2003, Friedrichshafen,
+Germany.
+3 IPCC Special Report on Aviation and the Global
+Atmosphere, 1999.
+4 Williams, V. & Noland, R. B.: ‘Variability of contrail
+formation conditions and the implications for policies to
+reduce the climate impacts of aviation’, not yet
+published.
+
+Questions:
+15. The primary goal of the passage is to
+   (A) compare two recent scientific studies on global warming
+   (B) explore the relationship of air traffic to atmospheric temperatures
+   (C) argue for the necessity of limiting air travel in Europe
+   (D) review a chronological series of studies on cirriform clouds
+   (E) examine research methods used to gauge atmospheric temperatures
+
+16. According to the passage, the relationship between aircraft contrails and cirriform clouds is best expressed by which of the following?
+   (A) Aircraft contrails decrease the number of cirriform clouds that form.
+   (B) Aircraft contrails have no significant impact on the number of cirriform clouds that form.
+   (C) Aircraft contrails increase the number of cirriform clouds that form.
+   (D) Aircraft contrails are only one of many sources of cirriform clouds.
+   (E) No conclusive evidence exists about the relationship between aircraft contrails and cirriform cloud formation.
+
+17. In the first paragraph (lines 1-15), the author relies on which of the following to establish credibility?
+   (A) Concession to an opposing view
+   (B) Data from a scientific study
+   (C) Details of the procedure for a particular experiment
+   (D) Conclusions agreed to by all scientists
+   (E) Ad hominem arguments
+
+18. The function of the note in line 1 is to
+   (A) document the specific source for an empirical claim
+   (B) offer an explanation of what is meant by a term
+   (C) prove that the author used print as well as online sources
+   (D) redirect a discussion begun in the body of the paper cited
+   (E) establish the credibility of one source at the expense of another
+
+19. The word “Amazingly” (line 8) emphasizes the author’s
+   (A) confusion about the research data
+   (B) dismay that nothing has been done to reduce the number of contrails
+   (C) surprise at the conclusion of a study
+   (D) excitement about the sophistication of scientific instruments
+   (E) frustration with the methodology used in a study
+
+20. The author states “This is a major claim” (lines 11-12) in order to
+   (A) expose the logical fallacy of a popular argument
+   (B) explore ways in which global warming is a localized phenomenon
+   (C) challenge the view of those who feel that the claim is unsubstantiated
+   (D) call attention to a claim by highlighting its importance
+   (E) validate the counterclaim that temperatures have not risen in the last 25 years
+
+21. The author’s strategy in paragraph three (lines 25-35) can best be described as presenting a
+   (A) generalization that is substantiated by a detailed example
+   (B) problem followed by a particular recommendation
+   (C) controversial proposal followed by a counterproposal
+   (D) qualifying statement that is modified by a following statement
+   (E) summary followed by a disclaimer
+
+22. The author’s tone in paragraph three (lines 25-35) can best be described as
+   (A) strident
+   (B) disbelieving
+   (C) relieved
+   (D) uncertain
+   (E) reasoned
+
+23. Lines 38-41 (“Ironically . . . contrails”) point out
+   (A) an unexpected consequence of a technological improvement
+   (B) an innovative strategy for evaluating the effects of contrails
+   (C) an elegant design solution for a puzzling problem
+   (D) the consequences of failing to follow a carefully designed plan
+   (E) a misunderstanding about how types of transportation affect the environment
+
+24. According to lines 59-70, aircraft flying lower would result in all of the following consequences EXCEPT
+   (A) burning more fuel
+   (B) increasing the number of cirriform clouds
+   (C) emitting more CO2
+   (D) increasing financial costs
+   (E) producing fewer contrails
+
+25. Lines 65-70 (“Their . . . emissions”) are best described as
+   (A) an evaluation of the methodology used in the study
+   (B) an illustration of why the study was needed
+   (C) a request for a plan to implement the study recommendations
+   (D) a summary of the primary conclusions of the study
+   (E) a comparison of one study with another
+
+26. What aspect of the Williams and Noland study is emphasized in the last paragraph?
+   (A) The ease of implementing the recommended flight restrictions
+   (B) The need to further reduce CO2 emissions
+   (C) The rapidity with which improvement will occur
+   (D) The necessity of doing additional research
+   (E) The widespread support the proposal has accrued
+
+27. In relationship to the passage as a whole, notes 1 and 2 do which of the following?
+   (A) Explain the shortcomings of previous studies of global warming
+   (B) Show that European and American governments are jointly funding research on contrails
+   (C) Provide conflicting commentary about links between contrails and global warming
+   (D) Offer explanations of what constitutes global warming
+   (E) Document studies that show how contrails contribute to global warming
+
+28. Which of the following is an accurate reading of note 2?
+   (A) The 2003 AAC Conference took place in Friedrichshafen, Germany.
+   (B) The presentation “Observations of Contrails and Cirrus over Europe” was given daily from June 30 to July 3.
+   (C) Mannstein wrote and Schumann edited the conference proceedings.
+   (D) The conference title was “Observations of Contrails and Cirrus over Europe.”
+   (E) The AAC Conference is held annually in Germany.
+
+29. Taken as a whole, the notes suggest that
+   (A) the author relied primarily on scientific journals for non-specialists
+   (B) research on contrails and cirriform clouds began in 1999
+   (C) the author has consulted both published and unpublished sources
+   (D) scientists in Europe have led the way in researching contrails
+   (E) the author has written highly technical articles
+   
+Correct Answers: 
+15.B 16.C 17.B 18.A 19.C 20.D 21.D 22.E 23.A 24.B 25.D 26.C 27.E 28.A 29.C  
+
+My Answers:
+15.B 16.C 17.B 18.A 19.C 20.D 21.D 22.E 23.A 24.B 25.D 26.C 27.E 28.A 29.C  
