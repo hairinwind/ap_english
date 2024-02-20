@@ -227,4 +227,4 @@ Correct Answers:
 40. E 41. D 42. C 43. B 44. D 45. D 46. B 47. B 48. B 49. C 50. E 51. A 52. A 53. B 54. E 55. A
 
 My Answers:
-40. E 41. D 42. C 43. B 44. D 45. D 46. B 47. B 48. B 49. C 50. E 51. A 52. A 53. B 54. E 55. A
+40. E 41. D 42. C 43. B 44. D 45. D 46. A 47. B 48. B 49. C 50. E 51. A 52. A 53. B 54. E 55. A
